@@ -49,7 +49,7 @@ export default function Home() {
               <a href="#" class="express-btn">
                 REGISTER NOW
               </a>
-              <a href="#">LOGIN NOW</a>
+              <a href="#">SIGNIN NOW</a>
             </div>
             <div class="col-md-6" data-aos="fade-left">
               <img src="cover.png" alt="" />
